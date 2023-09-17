@@ -7,7 +7,7 @@
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #333;
+    background-color: #1684d3;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -16,7 +16,7 @@ header {
 /* Estilos para a navegação */
 nav ul {
     list-style-type: none;
-    background-color: #333;
+    background-color: #1684d3;
     text-align: center;
     padding: 10px;
 }
@@ -38,9 +38,32 @@ main {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #333;
+    background-color: #1684d3;
     color: #fff;
     text-align: center;
     padding: 10px;
 }
 
+/* Estilos para a imagem da caixa d'água */
+#banner img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para a seção "Sobre Nós" */
+#sobre {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+#sobre h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#sobre p {
+    font-size: 16px;
+}
